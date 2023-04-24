@@ -1,0 +1,70 @@
+header
+{
+    background-color: rgb(35, 47, 48);
+    padding-top: 10px;
+    padding-bottom: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.heading1
+{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+
+.check
+{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+         
+.btn-grad 
+{
+    background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%);
+    margin-left: 46%;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover 
+  {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+
+  
+footer
+{
+    background-color: rgb(35, 47, 48);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    margin-top:3px;
+    
+}
+
+.heading2
+{
+    margin-left: 55%;
+    margin-top: -5%;
+}
+
